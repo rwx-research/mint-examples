@@ -1,4 +1,4 @@
-# Get Started with Mint
+# Get started with Mint
 
 [Mint](https://rwx.com/mint) is a comprehensive CI/CD platform designed to move you beyond inefficient and simplistic workflows.
 
