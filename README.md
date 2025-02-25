@@ -50,7 +50,11 @@ mint whoami
 Clone this repository and run the sample-run.yml workflow. Or if you'd prefer, check out the [documentation](https://www.rwx.com/docs/mint/guides/ci) to learn how to write your own workflows.
 
 ```
-git clone git@github.com:rwx-research/mint-examples.git    
+git clone git@github.com:rwx-research/mint-examples.git
+```
+```
 cd mint-examples
+```
+```
 mint run -f .mint/sample-run.yml --title "Sample Run" --open    
 ```
