@@ -45,7 +45,7 @@ You can verify you've authenticated successfully by running:
 mint whoami
 ```
 
-## Kick of your first Mint run
+## Step 3: Kick of your first Mint run
 
 Clone this repository and run the sample-run.yml workflow. Or if you'd prefer, check out the [documentation](https://www.rwx.com/docs/mint/guides/ci) to learn how to write your own workflows.
 
