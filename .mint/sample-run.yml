@@ -1,6 +1,6 @@
 tasks:
   - key: code
-    call: mint/git-clone 1.6.2
+    call: mint/git-clone 1.6.3
     with:
       repository: https://github.com/rwx-research/sample-repo-for-mint.git
       ref: main
